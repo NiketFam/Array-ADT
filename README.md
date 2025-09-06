@@ -2,13 +2,13 @@
 🔎 Searching a particular number in an array 
 <br>
 🔁 Finding duplicates in an array
- <br>  
+<br>  
 🔽 Finding both the minimum and maximum values simultaneously 
- <br> 
+<br> 
 🔗 Merging arrays 
- <br>
+<br>
  ❓ Finding missing elements  In sorted arrays  In unsorted arrays  
- <br>
+<br>
 🔄 Reversing an array 
- <br> 
+<br> 
 🧩 Set operations (Union, Intersection, Difference, etc.)
