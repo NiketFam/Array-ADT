@@ -1,2 +1,14 @@
 # Array-ADT
-🔎 Searching a particular number in an array  🔁 Finding duplicates in an array  🔽 Finding both the minimum and maximum values simultaneously  🔗 Merging arrays  ❓ Finding missing elements  In sorted arrays  In unsorted arrays  🔄 Reversing an array  🧩 Set operations (Union, Intersection, Difference, etc.)
+🔎 Searching a particular number in an array 
+<br>
+ 🔁 Finding duplicates in an array
+ <br>  
+ 🔽 Finding both the minimum and maximum values simultaneously 
+ <br> 
+ 🔗 Merging arrays 
+ <br>
+  ❓ Finding missing elements  In sorted arrays  In unsorted arrays  
+ <br>
+ 🔄 Reversing an array 
+ <br> 
+ 🧩 Set operations (Union, Intersection, Difference, etc.)
